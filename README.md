@@ -1,5 +1,3 @@
-I'm AlexOnR2
-```
-I'm here to have fun
-```
->Bye
+# not my main profile
+
+> Main: github.com/r2eyy
