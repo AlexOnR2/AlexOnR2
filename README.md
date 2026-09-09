@@ -1,3 +1,3 @@
 # not my main profile
 
-> Main: github.com/r2eyy
+> Main: [Main Profile](github.com/r2eyy)
